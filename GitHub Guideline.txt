@@ -1,0 +1,6 @@
+API Download:
+https://github.com/integrations/github-desktop
+https://github.com/integrations/github-extension-for-visual-studio
+Guideline:
+http://code.tutsplus.com/articles/team-collaboration-with-github--net-29876
+https://prettyxw.com/article/2013/11/22/how-to-use-git-and-team-collaboration-with-github-gitlab/
